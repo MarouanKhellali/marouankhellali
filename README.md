@@ -5,7 +5,7 @@
  I'm Khellali marouan, a recent graduate from OFPPT
  specialized in digital development , web full stack option
  with a good knowledge of the main programming
- languages andweb technologies. My analytical spirit and
+ languages and web technologies. My analytical spirit and
  curiosity allow me to work effectively as a team and find
  innovative solutions.
 
